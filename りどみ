@@ -1,0 +1,11 @@
+これは
+https://github.com/lins05/slackbot
+のslackbotの追加部分です
+Run.pyのある場所に置いて
+Run.pyにcum_の方のインポートを
+追加すれば使えます
+still2とcam_commandのstill部分は絶対パスで指定しているので
+画像の保存場所と送る画像のpathはご自分の環境に置き換えて
+予めフォルダを作ってご使用下さい
+なおcam_commandのstill部分は送ったあと自動的に画像を削除するようにしてあるので
+ご注意ください
